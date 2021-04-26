@@ -6,7 +6,9 @@
     "node": true
   },
   "rules": {
-    
+    "linebreak-style": 0,
+    "semi": "off",
+    "eol-last": 0
   },
   "extends": ["eslint:recommended", "google"]
 }
